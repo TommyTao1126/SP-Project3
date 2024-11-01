@@ -16,7 +16,7 @@
 #include <stdlib.h>
 #include <signal.h>
 #include <string.h>
-#include "scheduler.h"
+#include "schedule.h"
 
 struct schedule_entry *events;
 static struct timeval zero;
